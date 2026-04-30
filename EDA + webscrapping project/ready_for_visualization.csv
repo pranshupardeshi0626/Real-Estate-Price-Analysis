@@ -1,0 +1,755 @@
+society_name,price,City,sqft,furnished_status,bhk
+Godrej Ivara,30900000.0,Pune,1550,Unfurnished,4.0
+Majestique Evolvus,24200000.0,Pune,1684,Unfurnished,4.0
+Rachana Bella Casa Royale,15300000.0,Pune,1166,Unfurnished,3.0
+Nyati Emerald,17500000.0,Pune,1213,Unfurnished,3.0
+Lodha Massimo,78400000.0,Pune,3673,Unfurnished,5.0
+Suratwala Mark Plazzo,17000000.0,Pune,721,Unfurnished,3.0
+Green Ladder Skyora,17000000.0,Pune,1282,Unfurnished,3.0
+Shree Venkatesh Midori Towers Phase II,15300000.0,Pune,1159,Unfurnished,3.0
+Kasturi The Balmoral Towers,66600000.0,Pune,3742,Unfurnished,6.0
+Rohan Harita,21200000.0,Pune,1740,Unfurnished,4.0
+Kumar Parth Towers,16000000.0,Pune,1177,Unfurnished,3.0
+Kolte Patil 24K Altura,26600000.0,Pune,1371,Unfurnished,3.0
+Mantra Mayfair River Residences,23000000.0,Pune,1624,Unfurnished,4.0
+Rising Kohinoor Business Tower,30000000.0,Pune,1498,Unfurnished,3.0
+Avenue Promenade,45500000.0,Pune,2130,Unfurnished,3.0
+Ranawat  Aura Aiwa,15200000.0,Pune,1543,Unfurnished,4.0
+Intofinity Kohinoor Satori Mahalunge,31900000.0,Pune,2326,Unfurnished,4.0
+Lodha Camelot,28000000.0,Pune,1668,Unfurnished,4.0
+Kolte Patil 24k Sereno,32100000.0,Pune,1674,Unfurnished,3.0
+Lodha Panache,16200000.0,Pune,1088,Unfurnished,3.0
+Dosti Greenscapes,16500000.0,Pune,1395,Unfurnished,4.0
+Sukhwani Minerva,24000000.0,Pune,1474,Unfurnished,4.0
+The Greenfront at Godrej Park World,16300000.0,Pune,1198,Unfurnished,3.0
+Kumar Parc Residences A2,21900000.0,Pune,1674,Unfurnished,4.0
+Kumar Surakasha,14500000.0,Pune,1450,Furnished,3.0
+Terraza,39500000.0,Pune,1750,Furnished,3.0
+Ganga Liviano,15700000.0,Pune,870,Furnished,2.0
+Venkatesh Graffiti,8500000.0,Pune,785,Furnished,2.0
+Vilas Prime Panache C Wing,18000000.0,Pune,946,Furnished,2.0
+Bharati Vihar,9800000.0,Pune,1097,Furnished,2.0
+Gayatree LandMark Phase 2,11000000.0,Pune,798,Furnished,2.0
+Royal cataleya,5600000.0,Pune,680,Unfurnished,2.0
+J S Chandrabhaga Residency,4750000.0,Pune,372,Furnished,1.0
+Pristine Pacific 1,4600000.0,Pune,650,Unfurnished,1.0
+Pristine Pacific 1,4800000.0,Pune,648,Unfurnished,1.0
+Gada Anutham,16000000.0,Pune,1050,Furnished,3.0
+Mark Nirvana,6000000.0,Pune,700,Furnished,2.0
+Vasant Utsav,7400000.0,Pune,892,Furnished,2.0
+Xrbia Sneh Properties,1500000.0,Pune,450,Unfurnished,2.0
+Shiv Sai Paradise,6800000.0,Pune,730,Furnished,2.0
+Ganga Fernhill,3800000.0,Pune,625,Unfurnished,1.0
+Nakshatra I Land,4200000.0,Pune,471,Unfurnished,1.0
+Swami Samruddhi,5000000.0,Pune,427,Furnished,1.0
+Gagan Emerald,8500000.0,Pune,1094,Unfurnished,3.0
+Gagan Horizon Akanksha,2000000.0,Pune,396,Unfurnished,1.0
+Gagan Horizon Akanksha,2500000.0,Pune,414,Furnished,1.0
+Gagan 33,37500000.0,Pune,3102,Unfurnished,3.0
+Estado Presidential,21000000.0,Pune,2414,Unfurnished,4.0
+Skyi Songbirds,9000000.0,Pune,1008,Furnished,2.0
+Shafalya Aurum Legacy,18900000.0,Ahmedabad,1960,Unfurnished,4.0
+Trogon Centre Court,27700000.0,Ahmedabad,2345,Unfurnished,4.0
+Prime Signor Heritage,790000.0,Ahmedabad,216,Unfurnished,3.0
+SHELADIA TREETOP,50000000.0,Ahmedabad,6262,Unfurnished,4.0
+Shivalik Green View,15700000.0,Ahmedabad,1284,Unfurnished,3.0
+Sun Skyview,7270000.0,Ahmedabad,931,Unfurnished,3.0
+Safal Riviera Aspire,16400000.0,Ahmedabad,1507,Unfurnished,3.0
+Aristo Avira,14900000.0,Ahmedabad,1057,Unfurnished,3.0
+Shilp Sacred,31600000.0,Ahmedabad,2235,Unfurnished,4.0
+Planet,7310000.0,Ahmedabad,968,Unfurnished,3.0
+D R Praharsh Serena,8700000.0,Ahmedabad,1790,Unfurnished,3.0
+Aristo Avira,14700000.0,Ahmedabad,1055,Unfurnished,3.0
+Goyal Riviera Prestige,32200000.0,Ahmedabad,3705,Unfurnished,5.0
+Vishwanath Maher Select,8500000.0,Ahmedabad,952,Unfurnished,3.0
+Turquoise Re45 ,22600000.0,Ahmedabad,2200,Unfurnished,4.0
+Adani Amaris,31800000.0,Ahmedabad,2470,Unfurnished,4.0
+Swati Premier,19000000.0,Ahmedabad,1824,Unfurnished,4.0
+Goyal Orchid Regal,20900000.0,Ahmedabad,4287,Unfurnished,3.0
+Adani Belrosa,61000000.0,Ahmedabad,6911,Unfurnished,6.0
+Aarav Elenza Infinium,17500000.0,Ahmedabad,3900,Unfurnished,4.0
+The Riseonic,12500000.0,Ahmedabad,1095,Unfurnished,3.0
+Saiyamm Apricus 2,26000000.0,Ahmedabad,2200,Unfurnished,4.0
+Aristo The Opus And Aatmantan,28900000.0,Ahmedabad,4455,Unfurnished,4.0
+Safal Niwa,15000000.0,Ahmedabad,1452,Unfurnished,4.0
+Sheladia Artefino,28000000.0,Ahmedabad,2200,Unfurnished,4.0
+Sharanya Altura,8610000.0,Ahmedabad,968,Unfurnished,3.0
+Times Trinity,57500000.0,Ahmedabad,4221,Unfurnished,5.0
+kanjur Vinayak Apartment,14500000.0,Mumbai,580,Furnished,2.0
+Tista Arpit,8500000.0,Mumbai,354,Unfurnished,1.0
+Rachna Garden,22500000.0,Mumbai,870,Furnished,3.0
+JP North Aviva,6200000.0,Mumbai,360,Furnished,1.0
+Madhuban Township,7000000.0,Mumbai,785,Furnished,2.0
+Thakur Prasad Apartment,8200000.0,Mumbai,360,Unfurnished,1.0
+Heera Panna,8700000.0,Mumbai,700,Furnished,2.0
+Satnam Leela,24000000.0,Mumbai,650,Furnished,2.0
+Star Sky Sayba Heights,8500000.0,Mumbai,400,Furnished,1.0
+Bhoomi Gokul,23000000.0,Mumbai,785,Furnished,2.0
+Prathampad Apartments,19000000.0,Mumbai,720,Unfurnished,2.0
+Gokuldham,18000000.0,Mumbai,450,Furnished,1.0
+St Anthony Apartment,36000000.0,Mumbai,720,Furnished,2.0
+Classic View CHS,17500000.0,Mumbai,630,Furnished,2.0
+Rivali Park,43000000.0,Mumbai,1296,Furnished,3.0
+Evershine Millenium Paradise,18000000.0,Mumbai,583,Unfurnished,2.0
+Evershine Millenium Paradise,29000000.0,Mumbai,756,Furnished,2.0
+Evershine Green,33000000.0,Mumbai,972,Furnished,3.0
+Escaso Platinum Sicily,24700000.0,Mumbai,841,Unfurnished,2.0
+Kamdhenu Crown,49100000.0,Mumbai,1483,Unfurnished,3.0
+Emperia Hill Crest,6270000.0,Mumbai,564,Unfurnished,2.0
+Kamdhenu Pinnacle,23900000.0,Mumbai,881,Unfurnished,3.0
+Surana Harmony,3900000.0,Mumbai,437,Unfurnished,1.0
+Godrej Varanya Phase 2,37800000.0,Mumbai,1121,Unfurnished,3.0
+Embassy Park Panvel,10500000.0,Mumbai,699,Unfurnished,2.0
+Tricity Aura,7010000.0,Mumbai,600,Unfurnished,2.0
+Ravriya Neelkanth Darshan,14900000.0,Mumbai,990,Unfurnished,2.0
+Shri Ashtavinayak Vinayak Vista,6780000.0,Mumbai,1037,Unfurnished,2.0
+Techno Shreeji Destiny,13000000.0,Mumbai,840,Unfurnished,3.0
+Dream Ikon,10900000.0,Mumbai,675,Unfurnished,3.0
+The Arena at Hiranandani Fortune city,30500000.0,Mumbai,1896,Unfurnished,4.0
+Goodwill Wisteria,72100000.0,Mumbai,2338,Unfurnished,6.0
+Paradise Sai World Empire,19400000.0,Mumbai,877,Unfurnished,2.0
+Moreshwar 19 East,22300000.0,Mumbai,700,Unfurnished,2.0
+Balaji Delta Palm Beach,37900000.0,Mumbai,1499,Unfurnished,3.0
+Satyam Next Level Kharghar Central,17900000.0,Mumbai,856,Unfurnished,3.0
+Superb Maximus City,7410000.0,Mumbai,706,Unfurnished,2.0
+Vishwa Plan M Business Park,26000000.0,Mumbai,810,Unfurnished,3.0
+Raheja Solaris III,44200000.0,Mumbai,1650,Unfurnished,4.0
+Arihant Adarsh Phase I,5380000.0,Mumbai,578,Unfurnished,2.0
+Cyber Square 1,54000000.0,Mumbai,2879,Unfurnished,3.0
+Delta Luxuria,28000000.0,Mumbai,1169,Unfurnished,3.0
+M3M Skycity,37500000.0,Gurgaon,1429,Furnished,3.0
+All Punjabi Welfare Association,29500000.0,Gurgaon,1650,Furnished,3.0
+ATS One Hamlet,65000000.0,Noida,2500,Furnished,4.0
+DDA Flats Munirka,21000000.0,Delhi,1450,Furnished,3.0
+Chanakya Apartments,29500000.0,Delhi,1700,Unfurnished,3.0
+Unitech South City II,37500000.0,Gurgaon,2600,Furnished,4.0
+Emaar Emerald Hills,25100000.0,Gurgaon,2210,Unfurnished,3.0
+SKA Orion,24700000.0,Noida,1900,Unfurnished,3.0
+CRC The Flagship,109300000.0,Noida,3500,Unfurnished,3.0
+Chintels Serenity,46800000.0,Gurgaon,1551,Unfurnished,4.0
+New Modern Appartment,21000000.0,Delhi,1300,Furnished,3.0
+Adani Samsara Avasa,40000000.0,Gurgaon,1361,Furnished,4.0
+Luxury Builder Floors,60000000.0,Gurgaon,3200,Furnished,4.0
+Cyber City,3250000.0,Noida,525,Furnished,3.0
+Tulip Violet,23500000.0,Gurgaon,1578,Furnished,3.0
+Indiabulls Enigma,80000000.0,Gurgaon,7430,Unfurnished,5.0
+Logix Blossom County 2,14000000.0,Noida,980,Furnished,3.0
+TARC Tripundra,98500000.0,Delhi,3200,Unfurnished,4.0
+Omaxe Chowk,24400000.0,Delhi,244,Unfurnished,3.0
+DLF One Midtown,60000000.0,Delhi,2282,Unfurnished,3.0
+Unity The Amaryllis Phase 2,143000000.0,Delhi,5236,Unfurnished,5.0
+Omaxe Chowk,13100000.0,Delhi,131,Unfurnished,3.0
+Garur Golf Island,76100000.0,Delhi,3260,Unfurnished,4.0
+TARC Kailasa,110100000.0,Delhi,3315,Unfurnished,4.0
+Dimple Pearl,60000000.0,Delhi,2835,Unfurnished,3.0
+Metro Premium Builder Floor,62500000.0,Delhi,1550,Furnished,3.0
+Dakshinayan Apartment,24800000.0,Delhi,1700,Unfurnished,3.0
+Vasant Vihar Builder Floor,135000000.0,Delhi,400,Unfurnished,4.0
+Dakshinayan Apartment,26000000.0,Delhi,1500,Furnished,3.0
+Dakshinayan Apartment,24800000.0,Delhi,1530,Furnished,3.0
+Unity the Amaryllis,123900000.0,Delhi,3173,Unfurnished,5.0
+Unity The Amaryllis Phase 2,84500000.0,Delhi,2701,Unfurnished,3.0
+Godrej Connaught One,198000000.0,Delhi,2201,Furnished,3.0
+Unity the Amaryllis,43000000.0,Delhi,1900,Furnished,3.0
+Godrej Connaught One,209000000.0,Delhi,2201,Unfurnished,3.0
+Unity The Amaryllis Phase 2,101900000.0,Delhi,2213,Unfurnished,4.0
+DDA MIG Flats Prasad Nagar Phase 2,19000000.0,Delhi,1500,Furnished,3.0
+Dosti Eastern Bay,18800000.0,Mumbai,470,Unfurnished,1.0
+Godrej Avenue Eleven,300000000.0,Mumbai,2459,Unfurnished,4.0
+Piramal Mahalaxmi,83000000.0,Mumbai,1147,Unfurnished,3.0
+Lodha Aureus,119000000.0,Mumbai,2250,Unfurnished,4.0
+Darshan Promesa Fremont,44000000.0,Mumbai,1044,Unfurnished,3.0
+Ruparel Vivanza,42100000.0,Mumbai,1058,Unfurnished,3.0
+7 Mahalaxmi,67700000.0,Mumbai,1266,Unfurnished,3.0
+Ajmera Manhattan,41000000.0,Mumbai,1023,Unfurnished,3.0
+Raymond The Address By GS,42000000.0,Mumbai,1313,Unfurnished,3.0
+Ajmera Manhattan,71500000.0,Mumbai,1782,Unfurnished,4.0
+Lodha Park,207600000.0,Mumbai,2532,Unfurnished,5.0
+Lodha Park,69900000.0,Mumbai,1136,Unfurnished,3.0
+Piramal Mahalaxmi,57200000.0,Mumbai,790,Unfurnished,2.0
+Sobha Inizio,65800000.0,Mumbai,1225,Unfurnished,3.0
+Lodha Park,77900000.0,Mumbai,1266,Unfurnished,3.0
+Siddha Sky,17100000.0,Mumbai,606,Unfurnished,2.0
+Equinox Embassy Citadel,130600000.0,Mumbai,1840,Unfurnished,3.0
+Marathon Monte South,40000000.0,Mumbai,854,Unfurnished,2.0
+Godrej Trilogy Seafront,166100000.0,Mumbai,1661,Unfurnished,3.0
+Ruparel Vivanza,33600000.0,Mumbai,1058,Unfurnished,3.0
+Prestige Jasdan Classic,143800000.0,Mumbai,2302,Unfurnished,4.0
+Raheja Modern Vivarea,201200000.0,Mumbai,2809,Unfurnished,5.0
+Raheja Imperia I,92500000.0,Mumbai,1407,Unfurnished,3.0
+Piramal Mahalaxmi,105000000.0,Mumbai,1450,Unfurnished,3.0
+The Wadhwa Artek Park,122800000.0,Mumbai,1890,Unfurnished,4.0
+The Wadhwa Artek Park,135100000.0,Mumbai,2055,Unfurnished,4.0
+The Wadhwa Artek Park,145000000.0,Mumbai,2205,Unfurnished,4.0
+The Wadhwa Artek Park,96300000.0,Mumbai,1464,Unfurnished,3.0
+The Wadhwa Artek Park,235900000.0,Mumbai,3630,Unfurnished,5.0
+The Wadhwa Artek Park,90500000.0,Mumbai,1393,Unfurnished,3.0
+Rustomjee Stella,27700000.0,Mumbai,695,Unfurnished,2.0
+Rustomjee Stella,27600000.0,Mumbai,693,Unfurnished,2.0
+Rustomjee Stella,37000000.0,Mumbai,928,Unfurnished,3.0
+Rustomjee Stella,37500000.0,Mumbai,942,Unfurnished,3.0
+Rustomjee Stella,27000000.0,Mumbai,679,Unfurnished,2.0
+Disha Elysium,46300000.0,Mumbai,1070,Unfurnished,3.0
+Kumar Vibe Mangrove,37600000.0,Mumbai,1090,Unfurnished,3.0
+Regent Priyadarshani,49000000.0,Mumbai,1253,Unfurnished,3.0
+Raymond Invictus by GS,72700000.0,Mumbai,1353,Unfurnished,3.0
+Sunbeam Heights,45100000.0,Mumbai,1295,Unfurnished,5.0
+Godrej Sky Shore,118200000.0,Mumbai,2155,Unfurnished,4.0
+Puravankara Purva Estrella,33700000.0,Mumbai,784,Unfurnished,2.0
+Bharat Auravistas,91400000.0,Mumbai,2294,Unfurnished,7.0
+Sahakar Excel Acropolis,21900000.0,Mumbai,617,Unfurnished,2.0
+Adani Ten BKC ,81300000.0,Mumbai,1626,Unfurnished,3.0
+Rishabraj Avyaana,45600000.0,Mumbai,1340,Unfurnished,3.0
+Bhairav Ocean Breeze,13700000.0,Mumbai,610,Unfurnished,2.0
+Hill View Crest Oaks,30300000.0,Mumbai,1145,Unfurnished,3.0
+Kolte Patil Vivere,42700000.0,Mumbai,1070,Unfurnished,3.0
+Sushanku Avenue 37,24400000.0,Mumbai,827,Unfurnished,3.0
+Godrej Reserve,61500000.0,Mumbai,2016,Unfurnished,4.0
+Puravankara Purva Estrella,72000000.0,Mumbai,1600,Unfurnished,4.0
+Shubh Nirvana,21600000.0,Pune,1332,Unfurnished,3.0
+Pristine KYRA,60200000.0,Pune,2636,Unfurnished,5.0
+OXY BENICIO PHASE 1,24400000.0,Pune,1129,Unfurnished,3.0
+Pristine KYRA,39800000.0,Pune,1882,Unfurnished,3.0
+Shubh Nirvana,21700000.0,Pune,1332,Unfurnished,3.0
+Pleasant Avenue Apartment,7500000.0,Pune,485,Unfurnished,1.0
+Nyati Empress,32500000.0,Pune,645,Unfurnished,3.0
+Shubh Nirvana,23000000.0,Pune,1129,Furnished,3.0
+DNK Square ,15000000.0,Pune,600,Furnished,3.0
+Zircon,19900000.0,Pune,1115,Unfurnished,3.0
+OXY BENICIO PHASE 1,13400000.0,Pune,620,Unfurnished,2.0
+Shubh Nirvana,25000000.0,Pune,450,Unfurnished,3.0
+Lunkad Sky Vie,45000000.0,Pune,2352,Furnished,3.0
+Shubh Nirvana,24900000.0,Pune,517,Furnished,3.0
+Pristine KYRA,28200000.0,Pune,1560,Furnished,3.0
+Shubh Gateway,9210000.0,Pune,700,Furnished,2.0
+Pristine KYRA,30100000.0,Pune,1546,Unfurnished,3.0
+Rohan Mithila,23000000.0,Pune,1200,Furnished,3.0
+OXY BENICIO PHASE 1,21400000.0,Pune,1129,Unfurnished,3.0
+Shubh Nirvana,24000000.0,Pune,1300,Furnished,3.0
+Pristine KYRA,39800000.0,Pune,1882,Furnished,3.0
+Marvel Sonnet ,52500000.0,Pune,4800,Furnished,4.0
+Solitaire Business Hub,23000000.0,Pune,1335,Furnished,3.0
+Sky Belvedere,85000000.0,Pune,4505,Furnished,4.0
+Suratwala Mark Plazzo,10500000.0,Pune,434,Furnished,3.0
+Godrej Evergreen Square,13700000.0,Pune,1074,Unfurnished,3.0
+Legend Aaradhyam,9450000.0,Pune,1041,Unfurnished,3.0
+Kohinoor Central Park,10600000.0,Pune,955,Unfurnished,3.0
+Saheel Landmarc,15700000.0,Pune,1475,Unfurnished,4.0
+Godrej Eden Estate Phase 3,30400000.0,Pune,2600,Unfurnished,3.0
+Kolte Patil Canvas Phase 2,19900000.0,Pune,1700,Unfurnished,4.0
+Geras Joy on the Treetops,7520000.0,Pune,753,Unfurnished,2.0
+Godrej Evergreen Square,8760000.0,Pune,701,Unfurnished,2.0
+32 Pinewood Drive,6760000.0,Pune,710,Unfurnished,2.0
+Pride Park Titan,9430000.0,Pune,789,Unfurnished,2.0
+Rama Fusion Towers,6080000.0,Pune,668,Unfurnished,2.0
+VTP MONARQUE,16600000.0,Pune,1490,Unfurnished,3.0
+Rising High iBZ Hinjewadi ,13000000.0,Pune,1016,Unfurnished,3.0
+Kolte Patil Life Republic Sector R22 Avenue Atmos,9560000.0,Pune,1014,Unfurnished,3.0
+Kolte Patil Life Republic,10400000.0,Pune,1006,Furnished,3.0
+PGM Zenistry,10900000.0,Pune,796,Unfurnished,2.0
+Merlin Ventana,17100000.0,Pune,1135,Unfurnished,3.0
+Yashada Business Zone,27600000.0,Pune,1197,Unfurnished,3.0
+Merlin Ventana,17400000.0,Pune,1158,Unfurnished,3.0
+Kumar Parth Towers,14800000.0,Pune,1090,Unfurnished,3.0
+Jhamtani SpaceBiz,191300000.0,Pune,7740,Unfurnished,3.0
+Star Elements,40000000.0,Pune,2050,Unfurnished,4.0
+Kolte Patil 24K Altura,33500000.0,Pune,1725,Unfurnished,4.0
+Lodha Massimo,37900000.0,Pune,1776,Unfurnished,3.0
+Kalpataru Jade Skyline,19200000.0,Pune,1189,Unfurnished,3.0
+Kumar Parth Towers,10500000.0,Pune,774,Unfurnished,2.0
+ANP Privado,75000000.0,Pune,3000,Unfurnished,4.0
+Nyati Emerald,12000000.0,Pune,838,Unfurnished,2.0
+Lodha Massimo,65800000.0,Pune,3085,Unfurnished,5.0
+Utsav Homes The Address,22000000.0,Pune,1350,Unfurnished,3.0
+Kumar Parth Towers,10800000.0,Pune,796,Unfurnished,2.0
+Mana Jardin Neo,48400000.0,Bangalore,3297,Unfurnished,4.0
+LTG Aishwarya Indraprastha,7600000.0,Bangalore,2400,Unfurnished,4.0
+Everfine Straatosphere,83800000.0,Bangalore,3456,Unfurnished,3.0
+Nambiar District 25 Phase 1,40800000.0,Bangalore,2995,Unfurnished,4.0
+Lodha Azur,16900000.0,Bangalore,1248,Unfurnished,2.0
+Pragathi Amber,11300000.0,Bangalore,1550,Unfurnished,3.0
+Vedanth Suraksha Courtyard ,19500000.0,Bangalore,1760,Unfurnished,3.0
+Adarsh Welkin Park,14900000.0,Bangalore,1368,Unfurnished,3.0
+Fortune Seven Sarjapur,15400000.0,Bangalore,1912,Unfurnished,4.0
+JRC Palladio,37600000.0,Bangalore,3327,Unfurnished,4.0
+Aratt Alchemy Elixir,13000000.0,Bangalore,1342,Unfurnished,3.0
+Purva Silversky,26000000.0,Bangalore,1850,Unfurnished,3.0
+Meridian Park at The Prestige City,23500000.0,Bangalore,1868,Unfurnished,3.0
+Roach Cicada,43200000.0,Bangalore,2954,Unfurnished,4.0
+NVT A Wonderful World Phase I,39900000.0,Bangalore,2368,Unfurnished,4.0
+Lodha Haven,53500000.0,Bangalore,2400,Unfurnished,4.0
+Aspen Greens At The Prestige City,68300000.0,Bangalore,2411,Unfurnished,4.0
+Nambiar District 25,30900000.0,Bangalore,2512,Unfurnished,4.0
+Sobha Infinia Phase 2,38900000.0,Bangalore,1273,Unfurnished,3.0
+Mana Jardin Neo,105600000.0,Bangalore,7161,Unfurnished,5.0
+Prestige Smart City,71900000.0,Bangalore,3593,Unfurnished,4.0
+Aspen Greens At The Prestige City,68700000.0,Bangalore,2428,Unfurnished,4.0
+Mana Dale,23400000.0,Bangalore,2145,Unfurnished,4.0
+Sobha Madison Heights Townpark Phase 1 W5 To 7,17500000.0,Bangalore,1240,Unfurnished,2.0
+DSR The Courtyard,17100000.0,Bangalore,1608,Unfurnished,3.0
+Urbanrise Paradise On Earth,50300000.0,Bangalore,2725,Unfurnished,5.0
+NVT Symphony of Orchards,52800000.0,Bangalore,3519,Unfurnished,4.0
+Trendsquares Synergy,16100000.0,Bangalore,1715,Unfurnished,4.0
+Eaton Park at The Prestige City,31500000.0,Bangalore,2492,Unfurnished,4.0
+Sumadhura Solace,37800000.0,Bangalore,2270,Unfurnished,4.0
+HM Grandeur,75700000.0,Bangalore,3096,Unfurnished,3.0
+Prestige North Point,24400000.0,Bangalore,1253,Unfurnished,2.0
+Heriitage Signature,23900000.0,Bangalore,2275,Unfurnished,3.0
+DNR Arista,36200000.0,Bangalore,2025,Unfurnished,4.0
+Phoenix Kessaku,268900000.0,Bangalore,6559,Unfurnished,4.0
+Sumadhura Solace,44700000.0,Bangalore,2720,Unfurnished,4.0
+Adarsh Lakefront,42400000.0,Bangalore,1639,Unfurnished,3.0
+Century Mirai Phase I,48600000.0,Bangalore,3115,Unfurnished,4.0
+Sobha Rajvilas,41400000.0,Bangalore,1982,Unfurnished,3.0
+TVS Emerald Cascadia,152300000.0,Bangalore,5244,Unfurnished,4.0
+Sobha Rajvilas,45300000.0,Bangalore,2171,Unfurnished,4.0
+Adarsh Lakefront,24600000.0,Bangalore,882,Unfurnished,2.0
+Puravankara Orient Grand,87500000.0,Bangalore,3320,Unfurnished,4.0
+Shapoorji Pallonji Parkwest Phase 2,19500000.0,Bangalore,1018,Furnished,2.0
+Indraprastha Schon,260000000.0,Bangalore,7057,Furnished,4.0
+Assetz 63 Degree East,31000000.0,Bangalore,1523,Unfurnished,4.0
+Hiranandani Bannerghatta,23000000.0,Bangalore,1100,Furnished,3.0
+Prestige Kenilworth,144900000.0,Bangalore,2800,Unfurnished,4.0
+Phoenix Kessaku,90100000.0,Bangalore,3900,Unfurnished,4.0
+Orchid Lakeview,18000000.0,Bangalore,1281,Furnished,2.0
+Stephens Enclave,19000000.0,Bangalore,1560,Furnished,3.0
+rafeeq enclave,12500000.0,Bangalore,1000,Furnished,2.0
+Aswan Ventures The Courtyard Square,24900000.0,Bangalore,1595,Furnished,3.0
+Aakruthi Natureville,5800000.0,Bangalore,2400,Furnished,4.0
+Embassy Oasis,125000000.0,Bangalore,4084,Furnished,4.0
+Godrej Aveline,45000000.0,Bangalore,2500,Unfurnished,4.0
+Vajram Vivera,32900000.0,Bangalore,2406,Unfurnished,4.0
+Northern Lights by Puravankara KVN,46200000.0,Bangalore,4131,Unfurnished,4.0
+TVS Emerald Auralis,21600000.0,Bangalore,1793,Unfurnished,3.0
+CKPC Winds of Change,11900000.0,Bangalore,1219,Unfurnished,2.0
+Aratt Alchemy Essence,16900000.0,Bangalore,1754,Unfurnished,3.0
+Bricks and Milestones Solcrest,21500000.0,Bangalore,2200,Unfurnished,4.0
+Down By The Water,146000000.0,Bangalore,6480,Unfurnished,4.0
+Down By The Water,112400000.0,Bangalore,4980,Unfurnished,4.0
+Kolte Patil Lakeside 24,14600000.0,Bangalore,1574,Unfurnished,3.0
+Northern Lights by Puravankara KVN,22300000.0,Bangalore,1962,Unfurnished,3.0
+CKPC Winds of Change,11700000.0,Bangalore,1206,Unfurnished,2.0
+Adarsh Palm Acres,56700000.0,Bangalore,3375,Unfurnished,4.0
+AJMERA MARINA,16900000.0,Bangalore,1600,Unfurnished,3.0
+Godrej Aveline,34200000.0,Bangalore,1900,Unfurnished,3.0
+Bhartiya Garden Estate ,29300000.0,Bangalore,1651,Unfurnished,4.0
+Assetz Zen and Sato,39000000.0,Bangalore,2955,Unfurnished,4.0
+Assetz Soho & Sky,26300000.0,Bangalore,1339,Unfurnished,3.0
+SNN Clermont,53900000.0,Bangalore,3210,Unfurnished,4.0
+CKPC Winds of Change,9100000.0,Bangalore,916,Unfurnished,1.0
+Northern Lights by Puravankara KVN,45000000.0,Bangalore,4017,Unfurnished,4.0
+Trevoc Royal Residences,84500000.0,Gurgaon,1842,Unfurnished,4.0
+Trevoc Royal Residences,66000000.0,Gurgaon,1385,Unfurnished,3.0
+Technograd Society,23500000.0,Gurgaon,1950,Furnished,3.0
+Ansal Project Sushant Lok 2,31000000.0,Gurgaon,2000,Furnished,4.0
+Ansal Project Sushant Lok 2,35000000.0,Gurgaon,2400,Furnished,4.0
+MNB Ananta Vilasa,68000000.0,Gurgaon,2800,Furnished,4.0
+Luxury Floors,45000000.0,Gurgaon,3200,Unfurnished,4.0
+Ansal Project Sushant Lok 2,71000000.0,Gurgaon,300,Unfurnished,4.0
+Madhur Jivan Apartment,28500000.0,Gurgaon,2100,Unfurnished,4.0
+Skyland Apartments,29500000.0,Gurgaon,2349,Furnished,3.0
+Antriksh Royal Palm Apartments,15000000.0,Gurgaon,900,Furnished,2.0
+Ansal Project Sushant Lok 2,125100000.0,Gurgaon,502,Furnished,4.0
+Park Royal Apartment,30500000.0,Gurgaon,2000,Furnished,3.0
+Conscient Elevate,81300000.0,Gurgaon,1855,Unfurnished,4.0
+Adani Samsara Avasa,42500000.0,Gurgaon,310,Unfurnished,4.0
+Gurgaon Luxury Floors,35000000.0,Gurgaon,2800,Unfurnished,4.0
+DLF The Arbour,100100000.0,Gurgaon,3956,Unfurnished,4.0
+Indiabulls Centrum Park,30100000.0,Gurgaon,2875,Unfurnished,4.0
+Elan Imperial,38000000.0,Gurgaon,1200,Unfurnished,4.0
+Max Estate 360,70500000.0,Gurgaon,1899,Unfurnished,4.0
+Signature Global City 92,11000000.0,Gurgaon,1050,Unfurnished,2.0
+Smartworld One DXP,44500000.0,Gurgaon,2585,Unfurnished,3.0
+Signature Global Sarvam at DXP Estate,28500000.0,Delhi,1840,Unfurnished,3.0
+Signature The Roselia,6000000.0,Gurgaon,569,Unfurnished,2.0
+SRS Luxury Floors,62500000.0,Gurgaon,5200,Unfurnished,5.0
+Signature Global Cloverdale SPR,51400000.0,Gurgaon,2780,Unfurnished,3.0
+Central Park Flamingo Floors,24500000.0,Gurgaon,2559,Unfurnished,3.0
+TARC Ishva,103100000.0,Gurgaon,2157,Unfurnished,4.0
+DLF Regal Gardens,27400000.0,Gurgaon,2251,Unfurnished,3.0
+Signature Global Daxin Vistas,19700000.0,Gurgaon,1550,Unfurnished,3.0
+M3M Capital,27500000.0,Gurgaon,1695,Unfurnished,3.0
+Ireo The Corridors,22000000.0,Gurgaon,1296,Unfurnished,2.0
+DLF Garden City The Primus,43200000.0,Gurgaon,2695,Unfurnished,4.0
+Alpha Gurgaon One,14000000.0,Gurgaon,1181,Unfurnished,2.0
+Alpha Gurgaon One,13800000.0,Gurgaon,1010,Furnished,2.0
+Alpha Gurgaon One,15200000.0,Gurgaon,1270,Furnished,2.0
+Alpha Corp Gurgaon One ,55600000.0,Gurgaon,900,Furnished,2.0
+Alpha Gurgaon One,24000000.0,Gurgaon,1826,Furnished,3.0
+Alpha Corp Gurgaon One ,55000000.0,Gurgaon,2200,Furnished,3.0
+Alpha Gurgaon One,18000000.0,Gurgaon,1270,Furnished,2.0
+Alpha Corp Gurgaon One ,135000000.0,Gurgaon,4762,Unfurnished,4.0
+Elan Miracle,37500000.0,Gurgaon,1500,Unfurnished,4.0
+Elan Miracle,11500000.0,Gurgaon,400,Unfurnished,4.0
+Elan Miracle,10500000.0,Gurgaon,350,Unfurnished,4.0
+Elan Miracle,14000000.0,Gurgaon,500,Unfurnished,4.0
+SS Linden Floors,34000000.0,Gurgaon,3761,Unfurnished,4.0
+SS Linden Floors,38500000.0,Gurgaon,4392,Unfurnished,4.0
+SS Linden Floors,36000000.0,Gurgaon,3240,Unfurnished,5.0
+SS Linden Floors,26500000.0,Gurgaon,2637,Unfurnished,4.0
+SS Linden Floors,26000000.0,Gurgaon,2682,Unfurnished,4.0
+SS Linden Floors,37500000.0,Gurgaon,4140,Unfurnished,4.0
+Lamose Gratitude 84,23200000.0,Gurgaon,1635,Unfurnished,3.0
+F Residences Merlin,17600000.0,Kolkata,1340,Unfurnished,4.0
+SRIPSK Palladina,46900000.0,Kolkata,3350,Unfurnished,4.0
+Shriram Grand City,4740000.0,Kolkata,1121,Unfurnished,3.0
+Siddha Suburbia,4490000.0,Kolkata,920,Unfurnished,2.0
+Bengal RBM The Preserve,7200000.0,Kolkata,548,Unfurnished,2.0
+SKDJ Nidhara,40800000.0,Kolkata,3627,Unfurnished,5.0
+Siddha Serena,10100000.0,Kolkata,1030,Unfurnished,3.0
+Anandvann,8860000.0,Kolkata,582,Unfurnished,2.0
+Merlin Serenia,12800000.0,Kolkata,1407,Unfurnished,4.0
+Morya Phase 2,29000000.0,Kolkata,1688,Unfurnished,4.0
+DTC Still Waters,14800000.0,Kolkata,2030,Unfurnished,4.0
+Srijan Eternia,7240000.0,Kolkata,821,Unfurnished,3.0
+DTC Downtown Phase 1,9600000.0,Kolkata,914,Unfurnished,3.0
+Oiendrila Moni Sunrise,5440000.0,Kolkata,1108,Unfurnished,3.0
+Eden Willow Estate,4440000.0,Kolkata,662,Unfurnished,3.0
+Anantmani,44800000.0,Kolkata,3181,Unfurnished,4.0
+Navyug Magnolia,43300000.0,Kolkata,3008,Unfurnished,3.0
+Pravya,17700000.0,Kolkata,2143,Unfurnished,4.0
+DTC Sojon,5220000.0,Kolkata,960,Unfurnished,2.0
+Srijan Optima,6120000.0,Kolkata,922,Unfurnished,2.0
+Merlin Rise Sports Republic Phase 1 A,9420000.0,Kolkata,970,Unfurnished,2.0
+Sugam Urban Lakes Phase II,8000000.0,Kolkata,1579,Unfurnished,4.0
+Godrej Elevate at Godrej Seven,8880000.0,Kolkata,888,Unfurnished,3.0
+Godrej Blue,37500000.0,Kolkata,2514,Unfurnished,4.0
+SKDJ Nidhara,24600000.0,Kolkata,2189,Unfurnished,3.0
+Merlin Avana,9720000.0,Kolkata,1028,Unfurnished,3.0
+Ruchi Angelica Towers at Active Acres,14000000.0,Kolkata,1604,Unfurnished,4.0
+Khaitan Prudent Gokulam,6360000.0,Kolkata,848,Unfurnished,3.0
+SRIPSK Palladina,69500000.0,Kolkata,4965,Unfurnished,4.0
+South City,27500000.0,Kolkata,1239,Furnished,3.0
+Upohar The Condoville,16000000.0,Kolkata,1843,Furnished,3.0
+Hiland Park,10000000.0,Kolkata,1264,Furnished,3.0
+South City,40000000.0,Kolkata,1954,Furnished,3.0
+Sugam Park,6500000.0,Kolkata,1470,Unfurnished,3.0
+Mani Megh Mani,31500000.0,Kolkata,1734,Furnished,3.0
+Bengal Peerless Avidipta Phase 2,6500000.0,Kolkata,698,Unfurnished,2.0
+Diamond City South,11200000.0,Kolkata,1100,Unfurnished,3.0
+Bengal Peerless Avidipta,20000000.0,Kolkata,1430,Unfurnished,3.0
+Vinayak Amara,24700000.0,Kolkata,1516,Unfurnished,4.0
+Srijan Town Square,40700000.0,Kolkata,2979,Unfurnished,4.0
+DTC Still Waters,15400000.0,Kolkata,2030,Unfurnished,4.0
+PS Vaanya,32700000.0,Kolkata,2185,Unfurnished,4.0
+Siom Mani Casa 2,18200000.0,Kolkata,1166,Unfurnished,3.0
+DTC Still Waters,8800000.0,Kolkata,1160,Unfurnished,3.0
+Srijan Town Square,27500000.0,Kolkata,2017,Unfurnished,3.0
+Ambuja Urvisha The Condoville,23200000.0,Kolkata,1717,Unfurnished,3.0
+PS Vaanya,32500000.0,Kolkata,2185,Unfurnished,4.0
+Imagine Techpark,24000000.0,Kolkata,1600,Unfurnished,3.0
+Mani Casa,13000000.0,Kolkata,880,Unfurnished,2.0
+DTC Still Waters,15500000.0,Kolkata,1160,Unfurnished,3.0
+Alaktika Complex,16000000.0,Kolkata,2238,Unfurnished,4.0
+Mani Casadona,30000000.0,Kolkata,3238,Unfurnished,3.0
+Ambuja Urvisha The Condoville,26000000.0,Kolkata,1299,Unfurnished,3.0
+Vinayak Amara,23900000.0,Kolkata,1516,Unfurnished,4.0
+Bengal Urbana Phase 2,75000000.0,Kolkata,2846,Unfurnished,4.0
+Pasari and Deepam Marinas Edge,32500000.0,Kolkata,1509,Unfurnished,3.0
+Ambuja Urvisha The Condoville,25500000.0,Kolkata,1717,Furnished,3.0
+PS Vaanya,56000000.0,Kolkata,4400,Unfurnished,5.0
+Srijan Town Square,37500000.0,Kolkata,2703,Unfurnished,4.0
+Riviera Majestica,30200000.0,Ahmedabad,2772,Unfurnished,5.0
+Turquoise Rosedale,7500000.0,Ahmedabad,856,Unfurnished,3.0
+Safal Niwa,7930000.0,Ahmedabad,862,Unfurnished,3.0
+Riviera Majestica,22700000.0,Ahmedabad,1858,Unfurnished,4.0
+Armonia Sky,5100000.0,Ahmedabad,1390,Unfurnished,2.0
+Riviera Palacio,45900000.0,Ahmedabad,3815,Unfurnished,4.0
+Swati Trinity,82200000.0,Ahmedabad,8951,Unfurnished,4.0
+Orchid Valley,6840000.0,Ahmedabad,472,Unfurnished,4.0
+Aravalli By Ratnaakar,97500000.0,Ahmedabad,855,Unfurnished,4.0
+Safal Riviera Aspire,23500000.0,Ahmedabad,1611,Furnished,3.0
+Safal Niwa,14600000.0,Ahmedabad,1558,Unfurnished,4.0
+Safal Riviera Aspire,32000000.0,Ahmedabad,2738,Unfurnished,4.0
+Shilp Revanta,6040000.0,Ahmedabad,1510,Unfurnished,3.0
+Vraj Garden,71500000.0,Ahmedabad,8586,Unfurnished,4.0
+Goyal Riviera Elite,29300000.0,Ahmedabad,2052,Unfurnished,4.0
+Turquoise Greenz,7900000.0,Ahmedabad,1700,Unfurnished,3.0
+Green Legacy,8700000.0,Ahmedabad,1850,Unfurnished,3.0
+DRA Infinique,24000000.0,Chennai,2058,Unfurnished,4.0
+Prestige Pallava Gardens,17500000.0,Chennai,1018,Unfurnished,3.0
+Sameera Elite Garden,15100000.0,Chennai,1888,Unfurnished,3.0
+Radiance Eternity,33700000.0,Chennai,2711,Unfurnished,4.0
+Sameera New Vision Township,14100000.0,Chennai,2666,Unfurnished,3.0
+The World Of Joy,7010000.0,Chennai,635,Unfurnished,3.0
+Casagrand Avenue Park,19700000.0,Chennai,2104,Unfurnished,3.0
+Gnanasundaram Kokilam,12900000.0,Chennai,1357,Unfurnished,3.0
+Brigade Altius,69100000.0,Chennai,5054,Unfurnished,4.0
+TVS Emerald Verde Vista,10800000.0,Chennai,1200,Unfurnished,3.0
+VR Fortuna,3600000.0,Chennai,800,Unfurnished,3.0
+Shriram 122 West,7780000.0,Chennai,1157,Unfurnished,3.0
+Urbanrise The Lakes Edge,9610000.0,Chennai,1160,Unfurnished,2.0
+Budget Aadhavan Garden,3290000.0,Chennai,1566,Unfurnished,3.0
+Urbanrise Whispers of Sky,18200000.0,Chennai,1063,Unfurnished,4.0
+Quoins White Town Villas,12400000.0,Chennai,1780,Unfurnished,4.0
+Brigade Altius,25400000.0,Chennai,1857,Unfurnished,3.0
+Rohaan Daisy Garden,8270000.0,Chennai,1088,Unfurnished,3.0
+Provident Bayscape,8960000.0,Chennai,1400,Unfurnished,3.0
+DRA 90 Degrees,11500000.0,Chennai,1068,Unfurnished,2.0
+NCC Urban Ivy Towers,16700000.0,Chennai,1203,Unfurnished,3.0
+Godrej Azure,21600000.0,Chennai,2720,Unfurnished,4.0
+Roohi Aswat,10000000.0,Chennai,900,Furnished,2.0
+BRIGADE ICON,70000000.0,Chennai,1875,Unfurnished,3.0
+Chitale  Amara Aneja,69900000.0,Chennai,2413,Unfurnished,4.0
+BRIGADE ICON,86700000.0,Chennai,2290,Unfurnished,4.0
+AR Amara Amethyst,108500000.0,Chennai,3262,Unfurnished,4.0
+TVS Emerald Luxor,42300000.0,Chennai,2665,Unfurnished,4.0
+EK The Arc,60100000.0,Chennai,2981,Unfurnished,4.0
+TVS Emerald Luxor,31800000.0,Chennai,1999,Unfurnished,3.0
+TVS Emerald Luxor,50100000.0,Chennai,2601,Unfurnished,4.0
+TVS Emerald Luxor,26200000.0,Chennai,1467,Unfurnished,2.0
+Ankur Palm Springs,15000000.0,Chennai,1584,Unfurnished,3.0
+Newry Spring Residences,20500000.0,Chennai,1283,Unfurnished,3.0
+Tulive Viha,26800000.0,Chennai,1800,Unfurnished,4.0
+Newry Spring Residences,13600000.0,Chennai,255,Unfurnished,2.0
+TVS Emerald Luxor,70000000.0,Chennai,3379,Unfurnished,4.0
+TVS Emerald Luxor,42900000.0,Chennai,2601,Furnished,4.0
+TVS Emerald Luxor,29900000.0,Chennai,1474,Unfurnished,3.0
+The Metrozone,27500000.0,Chennai,2062,Unfurnished,3.0
+Ramaniyam Manasa,35000000.0,Chennai,1700,Furnished,3.0
+AVR Evania,28100000.0,Hyderabad,3315,Unfurnished,3.0
+Brigade Enclave,30000000.0,Hyderabad,2632,Unfurnished,4.0
+JBs Serene County II,5200000.0,Hyderabad,1800,Unfurnished,3.0
+Team4 Aria,16600000.0,Hyderabad,2285,Unfurnished,3.0
+Godrej Regal Pavilion,11300000.0,Hyderabad,1351,Unfurnished,2.0
+Pacifica Hillcrest Phase 2,23000000.0,Hyderabad,1699,Unfurnished,4.0
+Urbanrise Sky Habitat,18900000.0,Hyderabad,2309,Unfurnished,4.0
+Aspire Spaces Prestige Golden Grove,21900000.0,Hyderabad,3013,Unfurnished,4.0
+Altitudes By DSR,17300000.0,Hyderabad,2278,Unfurnished,3.0
+Myscape Songs of the Sun,34700000.0,Hyderabad,2025,Unfurnished,4.0
+Casagrand Evon,16200000.0,Hyderabad,2140,Unfurnished,3.0
+Vajra West City,32100000.0,Hyderabad,4400,Unfurnished,4.0
+Nikhila Royal Pavilion,16900000.0,Hyderabad,2695,Unfurnished,4.0
+Svadha Mackennas,15100000.0,Hyderabad,2330,Unfurnished,3.0
+Fortune Suraj Bhan Grande,41000000.0,Hyderabad,3910,Unfurnished,4.0
+DSR The Classe,47200000.0,Hyderabad,3939,Unfurnished,4.0
+The Prestige City,9080000.0,Hyderabad,1179,Unfurnished,2.0
+Candeur Twins,16000000.0,Hyderabad,2032,Unfurnished,3.0
+Skymarq By DSR,62700000.0,Hyderabad,5454,Unfurnished,4.0
+Fortune Suraj Bhan Grande,45500000.0,Hyderabad,4339,Unfurnished,4.0
+Myscape Songs of the Sun,30500000.0,Hyderabad,1732,Unfurnished,3.0
+Altitudes By DSR,17300000.0,Hyderabad,2277,Unfurnished,3.0
+Rajapushpa Sierra,18300000.0,Hyderabad,2555,Unfurnished,3.0
+Regal Bliss Villas,16200000.0,Hyderabad,2900,Unfurnished,3.0
+Aparna Dharti,32700000.0,Hyderabad,7182,Unfurnished,3.0
+AVLs Samskruthi,15400000.0,Hyderabad,2210,Unfurnished,3.0
+Suvarna Srinivasam II,6680000.0,Hyderabad,2403,Unfurnished,3.0
+Bhuvana  Harmony Woods,12500000.0,Hyderabad,4500,Unfurnished,3.0
+DSR The World At Jubilee Hills,127500000.0,Hyderabad,8499,Unfurnished,5.0
+Phoneix Halcyon,87500000.0,Hyderabad,6358,Unfurnished,4.0
+Sai Vaibhavi Valero,54000000.0,Hyderabad,3800,Furnished,4.0
+Phoenix Everest,85000000.0,Hyderabad,5358,Furnished,4.0
+Pavani Homes,30000000.0,Hyderabad,2212,Furnished,3.0
+Nandagiri Hills,120000000.0,Hyderabad,4000,Furnished,4.0
+Sai Vaibhavi Valero,50000000.0,Hyderabad,3826,Furnished,4.0
+Aparna Aura,30000000.0,Hyderabad,2384,Furnished,3.0
+Western Plaza,11100000.0,Hyderabad,1715,Furnished,2.0
+Aditya Hill Crest,40000000.0,Hyderabad,3900,Furnished,3.0
+The Valencia,38800000.0,Hyderabad,2019,Unfurnished,3.0
+Namo Shivams Elite,25200000.0,Hyderabad,1500,Unfurnished,3.0
+Banjara Hills 1,9900000.0,Hyderabad,1700,Unfurnished,3.0
+Lakshmi Kohinoor Residency,33600000.0,Hyderabad,2700,Furnished,4.0
+The Down Town Apartments,24200000.0,Hyderabad,1920,Furnished,3.0
+Vishnus Blue Lotus,34900000.0,Hyderabad,3250,Furnished,4.0
+Kanthi Avenue,14000000.0,Hyderabad,1400,Furnished,3.0
+Sri Aditya Lifestyle,100000000.0,Hyderabad,5330,Furnished,4.0
+Trendset Sumanjali,80000000.0,Hyderabad,3765,Furnished,4.0
+Ashoka Asha Abode,27500000.0,Hyderabad,2300,Furnished,3.0
+Swarna Heavens,21000000.0,Hyderabad,2400,Furnished,3.0
+Shanta Sriram Dukes Galaxy,30000000.0,Hyderabad,1700,Unfurnished,3.0
+Banjara Hills 1,21500000.0,Hyderabad,1910,Furnished,3.0
+Fortunr Icon,43000000.0,Hyderabad,3005,Furnished,3.0
+Krishnas Arena,27700000.0,Hyderabad,1564,Unfurnished,4.0
+Namishree Vrindavan,13600000.0,Hyderabad,1710,Unfurnished,3.0
+Candeur Lakescape,17700000.0,Hyderabad,2029,Unfurnished,3.0
+Aparna Serene Park,21800000.0,Hyderabad,1615,Furnished,3.0
+Sumadhura Acropolis,16000000.0,Hyderabad,1245,Furnished,2.0
+NJR Sreenivasam,21600000.0,Hyderabad,1787,Unfurnished,3.0
+BSCPL Bollineni Bion,46900000.0,Hyderabad,2374,Furnished,4.0
+Vessella Woods,81100000.0,Hyderabad,4146,Unfurnished,4.0
+Vasavi GP Trend,20800000.0,Hyderabad,1845,Unfurnished,3.0
+Technopolis Solitaire Unity,20100000.0,Hyderabad,2300,Unfurnished,4.0
+Hallmark Altus,19900000.0,Hyderabad,1700,Unfurnished,3.0
+Niharika Skyline ,18000000.0,Hyderabad,1000,Unfurnished,3.0
+Aparna Luxor Park,14400000.0,Hyderabad,1950,Unfurnished,3.0
+Lakshmi Cadillac,20300000.0,Hyderabad,2141,Unfurnished,3.0
+Sumadhura Acropolis,34000000.0,Hyderabad,2092,Furnished,3.0
+SMR Vinay Iconia,32500000.0,Hyderabad,3285,Unfurnished,4.0
+Candeur Lakescape,16000000.0,Hyderabad,1917,Unfurnished,3.0
+Auro The Regent,16600000.0,Hyderabad,1585,Unfurnished,3.0
+Indis Viva City,14900000.0,Hyderabad,1457,Unfurnished,2.0
+Namishree Vrindavan,20900000.0,Hyderabad,2790,Unfurnished,4.0
+Candeur Lakescape,17700000.0,Hyderabad,1591,Unfurnished,3.0
+Namishree Vrindavan,25300000.0,Hyderabad,3375,Unfurnished,4.0
+Auro The Pearl,75600000.0,Hyderabad,5400,Unfurnished,4.0
+D Address,40000000.0,Hyderabad,3166,Furnished,4.0
+Cybercity Marina Skies,13000000.0,Hyderabad,1210,Furnished,2.0
+Lodha Bellezza,55500000.0,Hyderabad,4761,Unfurnished,4.0
+My Home Bhooja,100000000.0,Hyderabad,4070,Furnished,4.0
+NCC Urban Gardenia,61500000.0,Hyderabad,3250,Furnished,4.0
+Aditya Capitol Heights,16500000.0,Hyderabad,1950,Unfurnished,3.0
+My Home Bhooja,86000000.0,Hyderabad,2500,Furnished,4.0
+NCC Urban Gardenia,55000000.0,Hyderabad,3480,Furnished,4.0
+Cybercity Rainbow Vistas,22200000.0,Hyderabad,2160,Furnished,3.0
+Shreemukh 360 Life,30500000.0,Hyderabad,2200,Unfurnished,3.0
+Aditya Sunshine,24500000.0,Hyderabad,2470,Unfurnished,3.0
+Cybercity Marina Skies,13500000.0,Hyderabad,1160,Furnished,2.0
+Prestige Ivy League,57000000.0,Hyderabad,3049,Furnished,4.0
+Cybercity Marina Skies,12900000.0,Hyderabad,1160,Furnished,2.0
+NCC Urban Gardenia,60000000.0,Hyderabad,2514,Furnished,4.0
+My Home Bhooja,105000000.0,Hyderabad,4070,Furnished,4.0
+My Home Bhooja,79000000.0,Hyderabad,3430,Furnished,3.0
+My Home Bhooja,59700000.0,Hyderabad,2595,Furnished,3.0
+My Home Bhooja,61000000.0,Hyderabad,2680,Furnished,3.0
+Asian Sun City,43800000.0,Hyderabad,4295,Furnished,3.0
+NCC Urban Gardenia,54000000.0,Hyderabad,4146,Unfurnished,5.0
+Cybercity Rainbow Vistas,14000000.0,Hyderabad,1500,Furnished,3.0
+HM Central Park,168300000.0,Mumbai,1725,Unfurnished,5.0
+Kalpataru Prive,429300000.0,Mumbai,3435,Unfurnished,4.0
+Lodha Seamont,405000000.0,Mumbai,3000,Unfurnished,4.0
+Runwal Malabar,312000000.0,Mumbai,2600,Unfurnished,4.0
+Lodha Seamont,150000000.0,Mumbai,1560,Furnished,3.0
+Dhuleva Seven,220400000.0,Mumbai,2449,Unfurnished,4.0
+Anita Building,155000000.0,Mumbai,1550,Furnished,3.0
+Lodha Seamont,149900000.0,Mumbai,1350,Furnished,3.0
+Arkade Rise,200000000.0,Mumbai,1590,Furnished,4.0
+Lodha Seamont,92900000.0,Mumbai,1450,Unfurnished,2.0
+Malabar Apartments,90000000.0,Mumbai,1123,Unfurnished,2.0
+Lodha Seamont,92900000.0,Mumbai,1713,Unfurnished,2.0
+Lodha Seamont,92900000.0,Mumbai,1370,Unfurnished,2.0
+Satellite Sesen,500000000.0,Mumbai,10,Unfurnished,10.0
+Rustomjee Ashiana,102500000.0,Mumbai,1578,Unfurnished,3.0
+Kalpataru Amare,240500000.0,Mumbai,3700,Unfurnished,5.0
+Rustomjee Ashiana,155000000.0,Mumbai,1954,Unfurnished,4.0
+Ajod One,54500000.0,Mumbai,988,Unfurnished,3.0
+Parinee Elenora,82800000.0,Mumbai,1354,Unfurnished,4.0
+Rishabraj Trident,86500000.0,Mumbai,1574,Unfurnished,3.0
+Govind Vihar Apartment,180000000.0,Mumbai,2599,Furnished,4.0
+Bharat Juhu Acropolis,77500000.0,Mumbai,1240,Furnished,3.0
+Kalpataru Amare,99400000.0,Mumbai,1406,Unfurnished,3.0
+Kalpataru Amare,114100000.0,Mumbai,1406,Furnished,3.0
+Kalpataru Amare,88500000.0,Mumbai,1700,Unfurnished,3.0
+K Raheja Maestro,239900000.0,Mumbai,2864,Furnished,4.0
+Options Kinara,69700000.0,Mumbai,1163,Furnished,3.0
+Gurukrupa Alaknanda,85000000.0,Mumbai,1458,Unfurnished,3.0
+Kalpataru Amare,104900000.0,Mumbai,1899,Furnished,4.0
+Kalpataru Amare,97500000.0,Mumbai,1406,Unfurnished,3.0
+Kalpataru Amare,137000000.0,Mumbai,1845,Furnished,4.0
+Adani Ten BKC ,120500000.0,Mumbai,2409,Unfurnished,3.0
+Radius 10 BKC,63400000.0,Mumbai,976,Unfurnished,3.0
+Radius 10 BKC,93600000.0,Mumbai,1442,Unfurnished,3.0
+Adani Ten BKC ,93000000.0,Mumbai,1432,Unfurnished,3.0
+Radius 10 BKC,155900000.0,Mumbai,2237,Unfurnished,4.0
+Adani Ten BKC ,106500000.0,Mumbai,1400,Unfurnished,4.0
+Jade Gardens,65000000.0,Mumbai,1370,Furnished,3.0
+Adani Ten BKC ,85000000.0,Mumbai,1429,Furnished,3.0
+Adani Ten BKC ,87000000.0,Mumbai,1450,Unfurnished,3.0
+Adani Ten BKC ,167700000.0,Mumbai,2237,Unfurnished,4.0
+Adani Ten BKC ,63300000.0,Mumbai,978,Unfurnished,3.0
+Adani Ten BKC ,78600000.0,Mumbai,1174,Unfurnished,3.0
+Adani Ten BKC ,105000000.0,Mumbai,1600,Furnished,4.0
+World Trade Center,30000000.0,Mumbai,740,Furnished,3.0
+Jolly Maker Apartment,135000000.0,Mumbai,1615,Furnished,3.0
+Maker Tower,310000000.0,Mumbai,3100,Furnished,4.0
+World Trade Center,31000000.0,Mumbai,740,Furnished,3.0
+Jolly Maker Apartment,85000000.0,Mumbai,900,Unfurnished,2.0
+Ameeta Apartments,75000000.0,Mumbai,1015,Furnished,3.0
+Jolly Maker Apartment,185000000.0,Mumbai,1188,Furnished,3.0
+Satnam Apartment,70000000.0,Mumbai,1260,Unfurnished,3.0
+Jupiter Apartment,110000000.0,Mumbai,1640,Unfurnished,3.0
+Maker Tower,28500000.0,Mumbai,218,Unfurnished,3.0
+Jolly Maker Apartment,185000000.0,Mumbai,1650,Furnished,3.0
+Cuffe Castle,70000000.0,Mumbai,1220,Furnished,2.0
+Maker Tower,300000000.0,Mumbai,3000,Furnished,4.0
+Hassa Mahal,45000000.0,Mumbai,800,Unfurnished,2.0
+Jupiter Apartment,100000000.0,Mumbai,1342,Furnished,3.0
+Maker Tower,200000000.0,Mumbai,2100,Furnished,4.0
+Satnam Apartment,82500000.0,Mumbai,1258,Furnished,3.0
+Lodha World Crest,83800000.0,Mumbai,1536,Unfurnished,3.0
+Raheja imperia 2,111100000.0,Mumbai,1588,Unfurnished,4.0
+India Bulls Sky Forest,170400000.0,Mumbai,3589,Unfurnished,3.0
+Equinox Embassy Citadel,134900000.0,Mumbai,1900,Unfurnished,3.0
+Equinox Embassy Citadel,394700000.0,Mumbai,5560,Unfurnished,5.0
+Raheja Atlantis,47500000.0,Mumbai,785,Furnished,2.0
+Equinox Embassy Citadel,210000000.0,Mumbai,3000,Unfurnished,4.0
+Marathon Nextgen Innova,115000000.0,Mumbai,2634,Unfurnished,3.0
+Lodha The World Towers,165000000.0,Mumbai,2200,Furnished,3.0
+Raheja imperia 2,104000000.0,Mumbai,1600,Furnished,4.0
+Raheja imperia 2,107000000.0,Mumbai,2077,Furnished,5.0
+India Bulls Sky Forest,92500000.0,Mumbai,2000,Unfurnished,3.0
+Equinox Embassy Citadel,138000000.0,Mumbai,1840,Unfurnished,3.0
+Indiabulls Sky,127500000.0,Mumbai,1290,Furnished,2.0
+One Avighna Park,350000000.0,Mumbai,4800,Unfurnished,5.0
+Raheja imperia 2,117100000.0,Mumbai,2077,Furnished,5.0
+Sobha Rajvilas,59500000.0,Bangalore,2848,Unfurnished,4.0
+Sobha Rajvilas,41800000.0,Bangalore,2001,Unfurnished,3.0
+Sobha Rajvilas,44900000.0,Bangalore,1520,Furnished,4.0
+DNR Highline,37200000.0,Bangalore,1400,Furnished,3.0
+DNR Highline,97000000.0,Bangalore,3363,Unfurnished,5.0
+Sobha Rajvilas,61500000.0,Bangalore,1680,Furnished,4.0
+Brigade Gateway,55000000.0,Bangalore,2100,Furnished,4.0
+Sobha Rajvilas,60500000.0,Bangalore,2848,Furnished,4.0
+Sobha Rajvilas,47500000.0,Bangalore,1800,Unfurnished,4.0
+Sobha Rajvilas,47000000.0,Bangalore,1700,Unfurnished,4.0
+DNR Highline,97700000.0,Bangalore,3363,Unfurnished,5.0
+DNR Highline,35400000.0,Bangalore,1690,Unfurnished,3.0
+DNR Highline,36500000.0,Bangalore,1690,Unfurnished,3.0
+Sobha Rajvilas,46500000.0,Bangalore,1800,Unfurnished,4.0
+DNR Highline,100000000.0,Bangalore,5153,Unfurnished,5.0
+DNR Highline,99000000.0,Bangalore,3610,Unfurnished,5.0
+DNR Highline,55000000.0,Bangalore,2050,Unfurnished,4.0
+Brigade Gateway,35000000.0,Bangalore,1400,Furnished,3.0
+Sobha Rajvilas,45000000.0,Bangalore,2500,Unfurnished,4.0
+Sobha Rajvilas,42500000.0,Bangalore,1387,Furnished,3.0
+Sobha Rajvilas,42500000.0,Bangalore,1400,Furnished,3.0
+Sobha Rajvilas,39000000.0,Bangalore,2100,Furnished,3.0
+Brigade Gateway,50000000.0,Bangalore,1900,Furnished,4.0
+K Raheja Vivarea,93300000.0,Bangalore,2809,Unfurnished,3.0
+Sterling Infinia,47500000.0,Bangalore,2439,Unfurnished,3.0
+Sobha Morzaria Grandeur,54600000.0,Bangalore,2735,Unfurnished,3.0
+Advaitha Aksha,27600000.0,Bangalore,1999,Unfurnished,3.0
+G Corp Residences ,38000000.0,Bangalore,1517,Furnished,3.0
+KMB La Palazzo,86500000.0,Bangalore,4893,Furnished,4.0
+Radiance Platinum,35400000.0,Bangalore,1800,Unfurnished,3.0
+Radiance Platinum,50000000.0,Bangalore,2700,Unfurnished,4.0
+Shriram Esquire,37700000.0,Bangalore,1318,Unfurnished,3.0
+Radiance Platinum,49000000.0,Bangalore,3010,Unfurnished,4.0
+SJR Palazza City,26500000.0,Bangalore,1400,Furnished,3.0
+DNR Spring Leaf,14800000.0,Bangalore,1750,Unfurnished,3.0
+DNR Spring Leaf,22800000.0,Bangalore,1633,Unfurnished,3.0
+DNR Spring Leaf,22800000.0,Bangalore,957,Unfurnished,3.0
+Prestige Pinewood,37300000.0,Bangalore,1300,Unfurnished,3.0
+Prestige Pinewood,29000000.0,Bangalore,1050,Unfurnished,3.0
+Shriram Esquire,35000000.0,Bangalore,1500,Unfurnished,3.0
+Shriram Esquire,35000000.0,Bangalore,1600,Unfurnished,3.0
+KMB La Palazzo,91000000.0,Bangalore,3200,Furnished,4.0
+Shriram Esquire,51200000.0,Bangalore,2360,Unfurnished,4.0
+Prestige Pinewood,62500000.0,Bangalore,2502,Furnished,4.0
+Prestige Pinewood,69500000.0,Bangalore,1703,Furnished,4.0
+Raheja Residency,23500000.0,Bangalore,1436,Furnished,3.0
+Vaswani Starlight,38700000.0,Bangalore,2730,Unfurnished,3.0
+Brigade Avalon,64200000.0,Bangalore,2187,Unfurnished,4.0
+Ankuraa Pristine Park,28200000.0,Bangalore,2439,Unfurnished,4.0
+Ankuraa Pristine Park,15200000.0,Bangalore,1289,Unfurnished,2.0
+Evergreen at Prestige Raintree Park,16400000.0,Bangalore,1177,Unfurnished,2.0
+Prestige Raintree Park,28400000.0,Bangalore,2004,Unfurnished,3.0
+Vrise The Loft,27100000.0,Bangalore,2244,Unfurnished,3.0
+Evergreen at Prestige Raintree Park,32000000.0,Bangalore,2299,Unfurnished,4.0
+NVT OIKOS,62500000.0,Bangalore,4069,Unfurnished,4.0
+Sumadhura Edition,26300000.0,Bangalore,1780,Unfurnished,3.0
+Brigade Avalon,48700000.0,Bangalore,1612,Unfurnished,3.0
+Prestige Ozone,64200000.0,Bangalore,4800,Unfurnished,4.0
+Evergreen at Prestige Raintree Park,32300000.0,Bangalore,2299,Unfurnished,4.0
+Prestige Raintree Park,52400000.0,Bangalore,3692,Unfurnished,5.0
+Evergreen at Prestige Raintree Park,22100000.0,Bangalore,1504,Unfurnished,2.0
+DSR Elixir,47500000.0,Bangalore,4615,Unfurnished,4.0
+Evergreen at Prestige Raintree Park,25800000.0,Bangalore,1759,Unfurnished,3.0
+SBR One Residence,24600000.0,Bangalore,1752,Unfurnished,3.0
+Udbhav Gokulam,15700000.0,Bangalore,1060,Unfurnished,3.0
+Sipani City,11900000.0,Bangalore,1660,Unfurnished,3.0
+Sipani City,7670000.0,Bangalore,1065,Unfurnished,2.0
+Sterling Villa Grande,72000000.0,Bangalore,3500,Unfurnished,3.0
+Prestige Silver Oak,72000000.0,Bangalore,4144,Unfurnished,4.0
+Raffles Park,105500000.0,Bangalore,6420,Unfurnished,5.0
+Urban Poetry Of Earth,42200000.0,Bangalore,3512,Unfurnished,4.0
+Sumadhura Edition,31000000.0,Bangalore,2050,Unfurnished,4.0
